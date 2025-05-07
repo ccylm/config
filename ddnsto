@@ -1,0 +1,8 @@
+
+config ddnsto
+	option enabled '1'
+	option feat_port '3033'
+	option feat_enabled '0'
+	option index '0'
+	option token 'f65f8065-c690-4672-aa9c-4675385bfe39'
+

@@ -1,0 +1,8 @@
+
+config udpxy
+	option disabled '0'
+	option port '4022'
+	option source 'eth2'
+	option respawn '1'
+	option status '1'
+
